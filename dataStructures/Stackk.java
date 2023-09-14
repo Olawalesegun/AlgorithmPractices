@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Stackk {
+public class Stackk {
+
+    public static void main(String[] args) {
+
+    }
 }
